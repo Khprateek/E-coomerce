@@ -6,10 +6,10 @@ const App = () => {
     <section id="Home">
       <Navbar/>
     </section>
-    <section id="Products">Products</section>
+    <section id="Products">Products1</section>
+    <section>Products2</section>
     <section id="Services">Services</section>
     <section id="Portfolio">Portfolio</section>
-    <section id="Portfolio2">Portfolio2</section>
     <section id="Contacts">Contact</section>
     
   </div>;

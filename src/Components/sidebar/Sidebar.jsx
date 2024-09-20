@@ -14,11 +14,10 @@ const Sidebar = () => {
             transition:{
                 type:"spring",
                 stiffness:20,
-
             }
         },
         closed:{
-            clipPath:"circle(25px at 30px 30px)",
+            clipPath:"circle(25px at 370px 30px)",
             transition:{
                 type:"spring",
                 stiffness:150,

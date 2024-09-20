@@ -10,8 +10,9 @@ const Navbar = () => {
             <div className="links">
                 <a href="">Home</a>
                 <a href="">Products</a>
-                <a href="">Theme</a>
-                <a href="">About</a>
+                <a href="">Services</a>
+                <a href="">Portfolio</a>
+                <a href="">Contacts</a>
                 <a href="">Orders</a>
                 <a href=""><img src="/Images/Bag_icon.png" alt="" /></a>
             </div>

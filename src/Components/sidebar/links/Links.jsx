@@ -5,9 +5,9 @@ const Links = () => {
   const items =[
     "Home",
     "Products",
-    "Theme",
-    "About",
-    "Orders",
+    "Services",
+    "Portfolio",
+    "Contacts",
   ];
 
 
